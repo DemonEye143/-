@@ -1,4 +1,4 @@
-GhostTrack 👻 - Advanced OSINT Intelligence Tool
+jGhostTrack 👻 - Advanced OSINT Intelligence Tool
 
 https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png
 
@@ -76,7 +76,8 @@ pkg install git python3 -y
 🚀 GhostTrack Deployment
 
 ```bash
-git clone https://github.com/HunxByts/GhostTrack.git
+git clone
+https://github.com/DemonEye143/-.git
 cd GhostTrack
 pip3 install -r requirements.txt
 python3 GhostTR.py
